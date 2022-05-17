@@ -5,7 +5,7 @@
 
 3) git clone https://github.com/ROX007-R/termux--root
 
-4) cd termux-shell
+4) cd termux--root
 
 5)  chmod +x *
 
